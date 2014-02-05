@@ -1,0 +1,29 @@
+body {
+	margin: 40px;
+	font-family: Helvetica;
+	font-size: medium;
+	font-weight: 200;
+	background: #ececec;
+}
+
+h2 {
+	font-weight: 500;
+}
+
+a {
+	text-decoration: underline;
+	color: black;	
+}
+
+a:hover {
+	text-decoration: underline overline;
+}
+
+div {
+	#border: 1px solid black
+}
+
+div.box {
+	line-height: 22px;
+	margin-top: 50px;
+}
