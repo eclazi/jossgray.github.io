@@ -24,6 +24,8 @@ div {
 }
 
 div.box {
+	float: left;
 	line-height: 22px;
-	margin-top: 50px;
+	margin-top: 25px;
+	margin-right: 50px;
 }
